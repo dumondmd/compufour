@@ -1,0 +1,23 @@
+### Presentation
+- [ ] About team
+- [ ] About CompuFour
+
+### Skills/experiences to ask to candidate
+
+- [X] Git (Conhecimento avançado, já faço commmits, versionamento, push e pull)
+- [#] React/Vue/Angular(Não tenho conhecimento em React, já desenvolvo projetos com Vue consumindo api rest,Angular só comecei a estudar e coisas simples eu consigo fazer)
+- [#] Agile (Estudei na universidade, não desenvolvo usando todas as boas práticas)
+- [X] Clean Code (Sigo as regras do livro "Código Limpo", consigo implementar boa parte das coisas)
+- [X] Linux (Uso Linux desde 2011 em todas minhas máquinas trabalho/lazer, já consigo instalar vários ambientes de desenvolvimento até de .NET)
+- [#] MySQL/PostgreSQL (Já faço criação de bancos e consulta em tabelas avançado, mas uso preferencialmente o MySQL por ter mais documentação)
+- [X] PHP (Já desenvolvo em PHP e tenho inúmeros projetos feito em PHP (pessoais - github e profissionais))
+- [#] Python/Bash Script (Conheço o básico do Python e já fiz alguns Scripts básisos para a automação de backups de arquivos)
+- [x] Object Oriented (Já fiz cursos na universidade e por conta própria, já tenho trabalhos feitos em cima do POO)
+- [X] Frameworks (Tenho conhecimento principalmente em Laravel, já fiz cursos e trabalhos profissionais)
+- [X] API (Já desevolvo api em PHP/Node com autenticação JWT, tenho exemplos até no github)
+- [-] Unit Tests (Nunca realizei depuração usando rotina de teste)
+- [#] Docker (Já estudei fiz alguns projetos pessoais mas nunca trabalhei)
+- [-] DevOps (Não tenho)
+- [X] Self-learn (A maioria dos conhecimentos que eu possuo vem de cursos que comprei e fiz sozinho online)
+- [-] Cloud Computing (AWS) (Não tenho)
+- [-] Critical Thinking (Não tenho)
