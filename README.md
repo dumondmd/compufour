@@ -21,3 +21,33 @@ questoes.txt
 
 
 ## Instruções para rodar o projeto back-end Laravel
+
+## Pacotes
+
+Pacotes do Composer PHP
+
+```
+composer install
+```
+
+Pacotes do Node.JS
+
+```
+npm install && npm run dev
+```
+
+## Migration
+
+Bando de dados **MySQL**
+
+```
+php artisan migrate
+```
+
+Gere os registros do banco de dados para teste
+
+```
+php artisan db:seed --class=FilmeSeeder
+php artisan db:seed
+
+```
