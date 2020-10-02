@@ -9,8 +9,11 @@ class Filme extends Model
 {
     use HasFactory;
 
-    function generos() {
-        //return $this->belongsToMany("App\Genero", "alocacoes")->withPivot('horas_semanais');    	
-        return $this->hasMany(Genero::class, 'nome');
-    }
+    protected $fillable = [
+        "nome",
+        "avaliacao",
+        "genero_id"
+    ];
+
+   
 }

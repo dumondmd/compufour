@@ -14,9 +14,9 @@ class GenerosSeeder extends Seeder
      */
     public function run()
     {
-        DB::table('generos')->insert(['nome'=>'Ação']);
-        DB::table('generos')->insert(['nome'=>'Comédia']);
-        DB::table('generos')->insert(['nome'=>'Drama']);
-        DB::table('generos')->insert(['nome'=>'Ficção']);
+        DB::table('generos')->insert(['tipo'=>'acao']);
+        DB::table('generos')->insert(['tipo'=>'comedia']);
+        DB::table('generos')->insert(['tipo'=>'drama']);
+        DB::table('generos')->insert(['tipo'=>'ficcao']);
     }
 }

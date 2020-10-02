@@ -13,8 +13,12 @@ class DatabaseSeeder extends Seeder
      */
     public function run()
     {
-        // \App\Models\User::factory(10)->create();
+        \App\Models\Filme::factory(200)->create();
+        //\App\Models\Genero::factory(4)->create();
+        
+        
         $this->call(GenerosSeeder::class);
-        $this->call(FilmesSeeder::class);
+        //$this->call(FilmesSeeder::class);
+        
     }
 }
